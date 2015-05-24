@@ -1,1 +1,6 @@
-tesla_nicki-userdebug
+# Tesla build target list
+# <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
+# Absence of a period indicates Daily (the default)
+
+# Daily lp5.1
+tesla_nicki-userdebug lp5.1
